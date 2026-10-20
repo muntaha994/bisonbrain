@@ -1,0 +1,8 @@
+*.o
+*.out
+*.exe
+lex.yy.c
+cal.tab.c
+cal.tab.h
+__pycache__/
+.env
